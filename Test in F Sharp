@@ -1,0 +1,1 @@
+fun _ -> print "Hello world"
